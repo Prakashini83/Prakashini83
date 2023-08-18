@@ -1,9 +1,9 @@
 ### Hello, World! 👋
 
-I'm Prakashini Srivastava, a passionate AI/ML enthusiast and aspiring app developer. Welcome to my GitHub page, where I'm actively exploring the fascinating world of technology and learning new skills every day.
+I'm Prakashini Srivastava, a passionate AI/ML enthusiast and an App developer. Welcome to my GitHub page, where I'm actively exploring the fascinating world of technology and learning new skills every day.
 
 - 🔭 I’m currently working on AI/ML projects that challenge me and allow me to expand my knowledge.
-- 🌱 I’m currently on a journey to master app development, diving into various frameworks and languages.
+- 🌱 I’m currently on a journey to master app development (Flutter), diving into various frameworks and languages.
 - 👯 I’m always excited about collaborating on projects related to Machine Learning and exploring innovative solutions.
 - 🤔 I’m currently seeking assistance and guidance in Flutter development, as I'm eager to create responsive and engaging apps.
 
